@@ -1,0 +1,15 @@
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\bin\Debug\net8.0\GiaTriLonNhat.exe
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\bin\Debug\net8.0\GiaTriLonNhat.deps.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\bin\Debug\net8.0\GiaTriLonNhat.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\bin\Debug\net8.0\GiaTriLonNhat.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\bin\Debug\net8.0\GiaTriLonNhat.pdb
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.sourcelink.json
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\refint\GiaTriLonNhat.dll
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.pdb
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\GiaTriLonNhat.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Mang1Chieu\GiaTriLonNhat\obj\Debug\net8.0\ref\GiaTriLonNhat.dll
